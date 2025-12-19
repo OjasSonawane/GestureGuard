@@ -9,3 +9,6 @@ build/
 .mypy_cache/
 .pytest_cache/
 site/
+*.egg-info/
+__pycache__/
+.venv/
